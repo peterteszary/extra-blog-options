@@ -92,3 +92,4 @@ class WordCountAndTimePlugin {
 $wordCountAndTimePlugin = new WordCountAndTimePlugin();
 
 
+/* comment */
